@@ -1,0 +1,1 @@
+java -jar w_bas.jar
